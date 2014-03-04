@@ -1,0 +1,9 @@
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\bin\Release\Crypto.exe.config
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\bin\Release\Crypto.exe
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\bin\Release\Crypto.pdb
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.BaseForm.resources
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.KeyGenerator.resources
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.Properties.Resources.resources
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.csproj.GenerateResource.Cache
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.exe
+D:\Program & Files\Programming\Visual Studio\My Program C#\Crypto\Crypto2\obj\Release\Crypto.pdb
